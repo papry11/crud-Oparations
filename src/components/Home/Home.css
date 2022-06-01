@@ -1,0 +1,22 @@
+.action__btn {
+    margin: 0 5px;
+}
+
+.create__btn {
+    margin: 40px 320px;
+}
+
+#createuser{
+    width: 35%;
+    border-radius: 10px;
+    border: none;
+}
+
+#thead{
+    background-color: rgb(54, 52, 52);
+    color: aliceblue;
+}
+
+.tbody{
+   
+}
